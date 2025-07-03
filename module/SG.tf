@@ -1,4 +1,4 @@
-resource "aws_security_group" "default11021" {
+resource "aws_security_group" "default121" {
   name        = var.sgname
   description = "Allow SSH HTTP HTTPS"
 
